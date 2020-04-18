@@ -1,4 +1,6 @@
 """Support for BleboxWlightBoxSLight lights."""
+"""Script based on https://github.com/joncar/pyeverlights"""
+
 from datetime import timedelta
 import logging
 import voluptuous as vol
